@@ -1,3 +1,30 @@
 .carousel-item{
  background:#FEEAE9;
 }
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now,
+.panda-subscribe-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px
+}
+.watch-bg{
+    background: #ffa500;
+}
+.shoes-bg{
+    background: #da70d6;
+}
+.begs-bg{
+    background: #0000ff;
+}
+.subscribe-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.price{
+    color: #FF136F;
+}
